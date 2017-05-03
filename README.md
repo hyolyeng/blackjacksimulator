@@ -8,20 +8,21 @@ Output will show for each game what the dealer's upcard was, dealer's total and 
 ## To Run
 
 Install Intellij IDEA with Kotlin plugin, open project and run app.kt
+
 TODO: build a server that will do the running of the code, and maybe a web UI to configure different configurations.
 
 ## Motivation
 
 While on a trip to Las Vegas for a friend's bachelor party April 2017, I realized how fascinating blackjack is as a probability/numbers game.
 I had never really gambled before, but the strategies behind each action, coupled with more knowledge/edge if cards are counted and bets are varied depending on the count seemed fascinating to me.
-So I started this endeavor to see for myself if counting cards actually does give me an edge over the house or not.
+So I started this endeavor to see for myself if counting cards actually could give me an edge over the house or not.
 
 
 ## License
 
 MIT License
 
-Copyright (c) 2016 Ben Mann
+Copyright (c) 2017 Diana Jung
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
