@@ -1,3 +1,5 @@
+package blackjack
+
 enum class Move {
     HIT, STAND, DOUBLE, SPLIT, SURRENDER
 }

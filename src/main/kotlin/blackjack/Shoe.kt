@@ -1,3 +1,5 @@
+package blackjack
+
 enum class Suit {
     DIAMONDS, HEARTS, CLUBS, SPADES
 }

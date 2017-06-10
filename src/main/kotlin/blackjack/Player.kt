@@ -1,3 +1,5 @@
+package blackjack
+
 class Hand {
     var cards: MutableList<Card> = mutableListOf()
     val handValue: Int
